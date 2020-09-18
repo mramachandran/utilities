@@ -11,7 +11,7 @@ import shutil
 corePath = 'C://projects//datamodel//datamodelexport'
 
 params = 'DRIVER={ODBC Driver 13 for SQL Server};' \
-         'SERVER=PNO-CHI-300750\MSSQLSERVER01;' \
+         'SERVER=*****;' \
          'PORT=1433;' \
          'DATABASE=ReportingDataModel;' \
          'UID=******;'\
